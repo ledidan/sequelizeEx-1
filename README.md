@@ -1,0 +1,1 @@
+# sequelizeEx-1
