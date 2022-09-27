@@ -1,0 +1,24 @@
+{
+  "name": "findwork",
+  "version": "1.0.0",
+  "description": "findWork project using sequelize, postgresql, nodejs...",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Di Dan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.23.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
